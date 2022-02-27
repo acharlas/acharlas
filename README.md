@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **C#, Node.js and Python**
 
 - 📫 How to reach me **acharlas@student.42.fr**
-
+<div style="margin-left:auto;margin-right:auto;">
  <table>
   <tr>
     <th>Project</th>
@@ -35,7 +35,8 @@
     <td>99</td>
   </tr>
   
-</table> 
+</table>
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
