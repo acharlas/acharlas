@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **acharlas@student.42.fr**
 
- <table>
+ <table style="border:1px solid black; margin-left:auto; margin-right:auto">
   <tr>
     <th>Project</th>
     <th>Grade</th>
