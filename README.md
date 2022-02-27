@@ -141,9 +141,9 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-
+<div style="display: flex; justify-content: flex-end">
 <p>
- <div style="margin-left:0;margin-right:auto;">
+ <div>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a> 
@@ -155,7 +155,7 @@
   </a>
  </div>
  
- <div style="margin-left:auto;margin-right:0;">
+ <div>
   </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
@@ -167,6 +167,7 @@
  </a>
  </div>
 </p>
+</div>
 
 
 
