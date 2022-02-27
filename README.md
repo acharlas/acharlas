@@ -9,6 +9,29 @@
 
 - 📫 How to reach me **acharlas@student.42.fr**
 
+ <table>
+  <tr>
+    <th>Project</th>
+    <th>Grade</th>
+    <th>Project</th>
+    <th>Grade</th>
+  </tr>
+  <tr>
+    <td>Projet 1</td>
+    <td>100</td>
+    <td>projet 2</td>
+    <td>90</td>
+  </tr>
+  <tr>
+    <td>Projet 3</td>
+    <td>95</td>
+    <td>projet 4</td>
+    <td>99</td>
+  </tr>
+  
+</table> 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
