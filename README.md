@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **C#, Node.js and Python**
 
 - 📫 How to reach me **acharlas@student.42.fr**
-<div style="margin-left:auto;margin-right:auto;">
+
  <table>
   <tr>
     <th>Project</th>
@@ -24,19 +24,114 @@
       </div>
      </a>
    </td>
-    <td>100</td>
-    <td>projet 2</td>
-    <td>90</td>
+    <td>100%</td>
+    <td>
+     <a href="https://github.com/acharlas/42-get_next_line">
+      <div style="height:100%;width:100%">
+       get_next_line
+      </div>
+     </a>
+   </td>
+    <td>102%</td>
   </tr>
+ 
   <tr>
-    <td>Projet 3</td>
-    <td>95</td>
-    <td>projet 4</td>
-    <td>99</td>
+    <td>
+     <a href="https://github.com/acharlas/42-ft_printf">
+      <div style="height:100%;width:100%">
+       printf
+      </div>
+     </a>
+   </td>
+    <td>100%</td>
+    <td>
+     <a href="https://github.com/acharlas/42-minitalk">
+      <div style="height:100%;width:100%">
+       minitalk
+      </div>
+     </a>
+   </td>
+    <td>100%</td>
+  </tr>
+ 
+ <tr>
+    <td>
+     <a href="https://github.com/acharlas/42-push_swap">
+      <div style="height:100%;width:100%">
+       push_swap
+      </div>
+     </a>
+   </td>
+    <td>96%</td>
+    <td>
+     <a href="https://github.com/acharlas/42-philosophers">
+      <div style="height:100%;width:100%">
+       philosopher
+      </div>
+     </a>
+   </td>
+    <td>100%</td>
+  </tr>
+ 
+ <tr>
+    <td>
+     <a href="https://github.com/acharlas/42-minishell">
+      <div style="height:100%;width:100%">
+       minishell
+      </div>
+     </a>
+   </td>
+    <td>101%</td>
+    <td>
+     <a href="https://github.com/acharlas/42-miniRT">
+      <div style="height:100%;width:100%">
+       miniRT
+      </div>
+     </a>
+   </td>
+    <td>100%</td>
+  </tr>
+ 
+ <tr>
+    <td>
+     <a href="https://github.com/acharlas/42-Piscine-Cpp">
+      <div style="height:100%;width:100%">
+       Piscine-CPP
+      </div>
+     </a>
+   </td>
+    <td>100%</td>
+    <td>
+     <a href="https://github.com/acharlas/42-ft_server">
+      <div style="height:100%;width:100%">
+       ft_server
+      </div>
+     </a>
+   </td>
+    <td>100%</td>
+  </tr>
+ 
+ <tr>
+    <td>
+     <a href="https://github.com/acharlas/42-ft_services">
+      <div style="height:100%;width:100%">
+       ft_services
+      </div>
+     </a>
+   </td>
+    <td>100%</td>
+    <td>
+     <a href="https://github.com/acharlas/42-ft_container">
+      <div style="height:100%;width:100%">
+       ft_container
+      </div>
+     </a>
+   </td>
+    <td>???%</td>
   </tr>
   
 </table>
-</div>
+
 
 
 <h3 align="left">Connect with me:</h3>
