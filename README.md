@@ -141,7 +141,8 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<div style="display: flex; justify-content: flex-end">
+
+<div style="display: flex; justify-content: space-around">
 <p>
  <div>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
