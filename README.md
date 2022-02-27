@@ -141,9 +141,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-
-<div align="right">
+<div>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a> 
@@ -154,6 +152,9 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a>
 </div>
+
+
+
 
 
 
