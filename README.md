@@ -132,17 +132,17 @@
  
  <tr>
     <td>
-     <a href="https://github.com/acharlas/42-webserv">
+     <a href="https://github.com/acharlas/42-irc">
       <div style="height:100%;width:100%">
-       webserv
+       ft_irc
       </div>
      </a>
    </td>
     <td>???%</td>
     <td>
-     <a href="">
+     <a href="https://github.com/acharlas/42-transcendence">
       <div style="height:100%;width:100%">
-       ...
+       ft_transcendence
       </div>
      </a>
    </td>
