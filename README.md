@@ -138,7 +138,7 @@
       </div>
      </a>
    </td>
-    <td>???%</td>
+    <td>100%</td>
     <td>
      <a href="https://github.com/acharlas/42-transcendence">
       <div style="height:100%;width:100%">
